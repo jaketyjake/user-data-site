@@ -1,0 +1,15 @@
+.card{
+    margin:20px;
+
+}
+.card-title{
+    
+}
+.nameBack{
+   
+}
+.card-body{
+    background-color: lightslategrey;
+    padding:2px !important;
+    text-align: center;
+}
